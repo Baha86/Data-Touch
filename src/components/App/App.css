@@ -1,0 +1,91 @@
+.App {
+  /* font-family: "Inter", "Arial", sans-serif; */
+  /* font-weight: 400;
+  font-size: 13px; */
+  /* color: #000;
+  box-sizing: border-box; */
+  width: 100%;
+  /* background: #202020; */
+}
+
+.title {
+  color: #55D706;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 75px;
+  line-height: 94px;
+  text-align: center;
+  margin: 68px 0 8px;
+  padding: 0;
+}
+
+.description {
+  color: white;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+.error-form {
+  font-family: 'Encode Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+  width: 461px;
+  height: 25px;
+  text-align: center;
+  font-variant: small-caps;
+  margin: auto;
+  color: #ff0000;
+}
+
+.done-form {
+  font-family: 'Encode Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+  width: 332px;
+  height: 25px;
+  text-align: center;
+  font-variant: small-caps;
+  margin: auto;
+  color: #FFFFFF;
+}
+
+.error-email {
+  text-decoration: none;
+  color: #55D706;
+}
+
+@media screen and (max-width: 767px) {
+    
+  .title {
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    margin: 43px auto 5px;
+  }
+
+  .description {
+    /* font-family: 'EncodeSans'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* .error-form {}
+
+  .done-form {} */
+
+}

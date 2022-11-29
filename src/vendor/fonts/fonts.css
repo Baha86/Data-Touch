@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'WorkSans';
+    font-style:  normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("../fonts/Work_Sans/static/WorkSans-Medium.ttf") format("ttf");
+  }
+
+  @font-face {
+     font-family: 'OpenSans';
+     font-style:  normal;
+     font-weight: 800;
+     font-display: swap;
+     src: url("../fonts/Open_Sans/static/OpenSans/OpenSans-ExtraBold.ttf") format("ttf");
+   }
+
+   @font-face {
+     font-family: 'EncodeSans';
+     font-style:  normal;
+     font-weight: 500;
+     font-display: swap;
+     src: url("../fonts/Encode_Sans/static/EncodeSans/EncodeSans-Medium.ttf") format("ttf");
+   }
+
+   @font-face {
+     font-family: 'EncodeSans';
+     font-style:  normal;
+     font-weight: 600;
+     font-display: swap;
+     src: url("../fonts/Encode_Sans/static/EncodeSans/EncodeSans-SemiBold.ttf") format("ttf");
+   }
